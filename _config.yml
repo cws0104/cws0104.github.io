@@ -21,7 +21,7 @@ title                    : "Wonseok (Ethan) Choi"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Wonseok (Ethan) Choi"
-description              : "An amazing website."
+description              : "For Future Biomedical Engineering"
 URL                      : "https://cws0104.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Wonseok Choi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Biography"
+  location         : "Seoul, Republic of Korea"
+  email            : "cws0104@kist.re.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
