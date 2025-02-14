@@ -1,13 +1,7 @@
 ---
-title: "My First Blog Post"
+title: "After Ph.D."
 date: 2025-02-14
 categories: [blog]
-tags: [jekyll, github-pages]
 ---
 
-This is my test.
-This is my test.
-This is my test.
-This is my test.
-This is my test.
-This is my test.
+This is my test. Hi. Test.
