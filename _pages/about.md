@@ -6,7 +6,7 @@ permalink: /about/
 
 # Wonseok (Ethan) Choi
 
-<img src="/Users/wonseokchoi/Library/Mobile Documents/com~apple~CloudDocs/Github.tmp/cws0104.github.io/assets/image/Photo/Photo_wonseok.png" alt="Photo_wonseok" style="zoom:33%;" />
+<img src="/assets/image/Photo/Photo_wonseok.png" alt="Photo_wonseok" style="zoom:33%;" />
 
 <center> About Wonseok (Ethan), </center>
 
