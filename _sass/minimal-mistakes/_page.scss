@@ -52,11 +52,7 @@ body {
     width: 100%;
     clear: both;
 
-    .page-content {
-      max-width: 900px; /* 내용이 너무 넓게 퍼지는 것 방지 */
-      margin: 0 auto; /* 가운데 정렬 */
-      padding: 40px; /* 전체 여백 추가 */
-    }
+    .page__content,
     .page__meta,
     .page__share {
       position: relative;
