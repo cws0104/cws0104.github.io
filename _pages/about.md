@@ -5,11 +5,12 @@ permalink: /about/
 ---
 
 
-# Wonseok (Ethan) Choi
+
+# About Wonseok (Ethan) Choi
 
 <center> <img src="/assets/image/Photo/Photo_wonseok.png" alt="Photo_wonseok" style="zoom:33%;" /> </center>
 
-<center> About Wonseok (Ethan), </center>
+<center>An early photograph of me from 2019.</center>
 
 ### <center> For future biomedical Engineering with therapeutic ultrasound </center>
 
