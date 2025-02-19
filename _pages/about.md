@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Publications"
+permalink: /research/
+---
+
 # Wonseok Choi
 
 ### For future biomedical Engineering
