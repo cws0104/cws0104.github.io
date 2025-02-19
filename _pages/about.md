@@ -4,6 +4,8 @@ title: "About"
 permalink: /about/
 ---
 
+<div style="max-width: 900px; margin: 0 auto; padding-left: 40px; padding-right: 40px;">
+
 # Wonseok (Ethan) Choi
 
 <center> <img src="/assets/image/Photo/Photo_wonseok.png" alt="Photo_wonseok" style="zoom:33%;" /> </center>
@@ -39,5 +41,7 @@ I am a biomedical engineer with full research focused on ***therapeutic ultrasou
 📍 *Wonju, Republic of Korea* 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🗓 *Mar. 2014 - Aug. 2019*  
 
 - Early graduation;
-- Thesis title for undergraduate graduation: ***Colorimetric based analysis using clstered superparamagnetic iron oxide nanoparticles for glucose detection***
+- Thesis title for undergraduate graduation: ***Colorimetric based analysis using clustered superparamagnetic iron oxide nanoparticles for glucose detection***
 - Note: Militray service in Republic of Korea Marine Corps (Dec. 2014 -- Sep. 2016)
+
+</div>
