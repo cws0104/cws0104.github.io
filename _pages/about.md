@@ -6,7 +6,7 @@ permalink: /about/
 
 # Wonseok (Ethan) Choi
 
-<img src="/assets/image/Photo/Photo_wonseok.png" alt="Photo_wonseok" style="zoom:33%;" />
+<center> <img src="/assets/image/Photo/Photo_wonseok.png" alt="Photo_wonseok" style="zoom:33%;" /> </center>
 
 <center> About Wonseok (Ethan), </center>
 
