@@ -4,8 +4,6 @@ title: "About"
 permalink: /about/
 ---
 
-{:.custom-container}
-
 
 # Wonseok (Ethan) Choi
 
