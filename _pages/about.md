@@ -4,8 +4,6 @@ title: "About"
 permalink: /about/
 ---
 
-<div style="padding: 40px; margin: 20px auto; max-width: 900px;">
-
 # Wonseok (Ethan) Choi
 
 <center> <img src="/assets/image/Photo/Photo_wonseok.png" alt="Photo_wonseok" style="zoom:33%;" /> </center>
@@ -24,14 +22,13 @@ I am a biomedical engineer with full research focused on ***therapeutic ultrasou
 
 ##### *Ph.D., Biomedical Engineering*  
 
-📍 *Seoul, Republic of Korea*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🗓 *Sep. 2019 - Feb. 2024*  
+📍 *Seoul, Republic of Korea*					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🗓 *Sep. 2019 - Feb. 2024*  
 
-- MS and Ph.D. joint program.  
-- Full scholarship for joint program. 
-- **Dissertation supervisor:** **Prof. Jaehong Key** (e-mail: *jkey@yonsei.ac.kr*)  
-- **Committee members/references:**  
-  *Prof. Sangwoo Lee, Prof. Seongho Choi, Prof. Dasol Lee, and Prof. Sungmin Han*  
-- **Dissertation title:** ***DRUG DELIVERY SYSTEM FOR TREATING ISCHEMIC STROKE USING NANOTECHNOLOGY***  
+- MS and Ph.D. **joint** program; Joint program with Korea Institute of Science and Technology (KIST)
+- Honor: **full scholarship for joint program.** 
+- Dissertation supervisor: **Prof. Jaehong Key** (e-mail: *jkey@yonsei.ac.kr*)  
+- Committe members: ***Prof. Sangwoo Lee, Prof. Seongho Choi, Prof. Dasol Lee, and Prof. Sungmin Han***
+- Dissertation title: ***Drug delivery system for treating ischemic stroke using nanotechnology***
 
 ---
 
@@ -39,9 +36,8 @@ I am a biomedical engineer with full research focused on ***therapeutic ultrasou
 
 ##### *B.S. in Biomedical Engineering*  
 
-📍 *Wonju, Republic of Korea* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🗓 *Mar. 2014 - Aug. 2019*  
+📍 *Wonju, Republic of Korea* 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🗓 *Mar. 2014 - Aug. 2019*  
 
-- Early graduation.  
-- **Thesis title for undergraduate graduation:**  
-  ***Colorimetric Based Analysis Using Clustered Superparamagnetic Iron Oxide Nanoparticles for Glucose Detection***  
-- **Military Service:** Republic of Korea Marine Corps *(Dec. 2014 - Sep. 2016) 
+- Early graduation;
+- Thesis title for undergraduate graduation: ***Colorimetric based analysis using clstered superparamagnetic iron oxide nanoparticles for glucose detection***
+- Note: Militray service in Republic of Korea Marine Corps (Dec. 2014 -- Sep. 2016)
