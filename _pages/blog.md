@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: collection
 title: "Blog"
 permalink: /blog/
 ---
