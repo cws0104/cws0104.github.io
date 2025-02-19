@@ -4,7 +4,10 @@ title: "Publications"
 permalink: /research/
 ---
 
+
+
 # Publication
+
 1. [Colorimetric Based Analysis Using Clustered Superparamagnetic Iron Oxide Nanoparticles for Glucose Detection](https://koreascience.kr/article/JAKO202006840572694.page), **W Choi**, J Key, <span style="color:red">*Journal of Biomedical Engineering Research*</span>, **41 (6)**, 228-234 (first author)
 2. [Ultrasound Stimulation Increases Neurite Regeneration in Injured Dorsal Root Ganglion Neurons through Mammalian Target of Rapamycin Activation](https://www.mdpi.com/2076-3425/10/7/409), S Han, J Park, **W Choi**, I Youn, <span style="color:red">*Brain Sciences*</span>, **10 (7)**, 409
 3. [Cavitation-assisted sonothrombolysis by asymmetrical nanostars for accelerated thrombolysis](https://www.sciencedirect.com/science/article/pii/S0168365922005922), **W Choi**, J Key, I Youn, H Lee, S Han, <span style="color:red">*Journal of Controlled Release*</span>, **350**, 870-885 (first author)
