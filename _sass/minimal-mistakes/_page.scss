@@ -52,11 +52,7 @@ body {
     width: 100%;
     clear: both;
 
-    .page-content {
-      max-width: 900px !important;
-      padding-left: 40px !important;
-      padding-right: 40px !important;
-    }
+    .page-content,
     .page__meta,
     .page__share {
       position: relative;
