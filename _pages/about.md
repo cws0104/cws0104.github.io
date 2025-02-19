@@ -2,8 +2,9 @@
 layout: page
 title: "About"
 permalink: /about/
-<div style="padding: 40px; margin: 20px auto; max-width: 900px;">
 ---
+
+<div style="padding: 40px; margin: 20px auto; max-width: 900px;">
 
 # Wonseok (Ethan) Choi
 
@@ -43,6 +44,4 @@ I am a biomedical engineer with full research focused on ***therapeutic ultrasou
 - Early graduation.  
 - **Thesis title for undergraduate graduation:**  
   ***Colorimetric Based Analysis Using Clustered Superparamagnetic Iron Oxide Nanoparticles for Glucose Detection***  
-- **Military Service:** Republic of Korea Marine Corps *(Dec. 2014 - Sep. 2016)*
-
-</div>
+- **Military Service:** Republic of Korea Marine Corps *(Dec. 2014 - Sep. 2016) 
