@@ -1,10 +1,5 @@
----
-layout: page
-title: "About Me"
-permalink: /about/
----
-
 # Wonseok Choi
-Ph.D., Biomedical Engineering
 
-This is my personal website where I share blog posts and projects.
+### For future biomedical Engineering
+
+I am a biomedical engineer with research focused on threapeutic ultrasound.
