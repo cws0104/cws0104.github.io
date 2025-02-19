@@ -4,9 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-<div style="padding: 50px; margin: 40px; background-color: #f8f9fa; border-radius: 10px;">
-
-  # Wonseok (Ethan) Choi
+# Wonseok (Ethan) Choi
 
 <img src="/Users/wonseokchoi/Library/Mobile Documents/com~apple~CloudDocs/Github.tmp/cws0104.github.io/assets/image/Photo/Photo_wonseok.png" alt="Photo_wonseok" style="zoom:33%;" />
 
@@ -45,7 +43,3 @@ I am a biomedical engineer with full research focused on ***therapeutic ultrasou
 - **Thesis title for undergraduate graduation:**  
   ***Colorimetric Based Analysis Using Clustered Superparamagnetic Iron Oxide Nanoparticles for Glucose Detection***  
 - **Military Service:** Republic of Korea Marine Corps *(Dec. 2014 - Sep. 2016)*
-
-
-
-</div>
