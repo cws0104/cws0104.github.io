@@ -53,9 +53,10 @@ body {
     clear: both;
 
     .page-content {
-      max-width: 900px !important;  /* 내용이 너무 넓게 퍼지는 것 방지 */
-      margin: 0 auto !important;  /* 가운데 정렬 */
-      padding: 40px !important;  /* 전체 여백 추가 */
+      max-width: 900px !important;
+      margin: 0 auto !important;
+      padding-left: 40px !important;
+      padding-right: 40px !important;
     }
     .page__meta,
     .page__share {
