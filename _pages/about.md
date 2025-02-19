@@ -4,7 +4,9 @@ title: "About"
 permalink: /about/
 ---
 
-# Wonseok (Ethan) Choi
+<div style="padding: 50px; margin: 40px; background-color: #f8f9fa; border-radius: 10px;">
+
+  # Wonseok (Ethan) Choi
 
 <img src="/Users/wonseokchoi/Library/Mobile Documents/com~apple~CloudDocs/Github.tmp/cws0104.github.io/assets/image/Photo/Photo_wonseok.png" alt="Photo_wonseok" style="zoom:33%;" />
 
@@ -19,7 +21,9 @@ I am a biomedical engineer with full research focused on ***therapeutic ultrasou
 ### Degree and Education
 
 #### **Yonsei University**  
+
 ##### *Ph.D., Biomedical Engineering*  
+
 📍 *Seoul, Republic of Korea*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🗓 *Sep. 2019 - Feb. 2024*  
 
 - MS and Ph.D. joint program.  
@@ -32,10 +36,16 @@ I am a biomedical engineer with full research focused on ***therapeutic ultrasou
 ---
 
 #### **Yonsei University**  
+
 ##### *B.S. in Biomedical Engineering*  
+
 📍 *Wonju, Republic of Korea* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🗓 *Mar. 2014 - Aug. 2019*  
 
 - Early graduation.  
 - **Thesis title for undergraduate graduation:**  
   ***Colorimetric Based Analysis Using Clustered Superparamagnetic Iron Oxide Nanoparticles for Glucose Detection***  
 - **Military Service:** Republic of Korea Marine Corps *(Dec. 2014 - Sep. 2016)*
+
+
+
+</div>
