@@ -2,19 +2,22 @@
 layout: archive
 ---
 
+<!-- Add an image at the top -->
+<img src="/assets/images/Photo/homebanner.jpg" alt="Homepage Banner" style="width: 100%; max-height: 400px; object-fit: cover;">
+
 {{ content }}
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
+<!-- Display only the 2 most recent posts -->
+<ul class="recent-posts">
+  {% for post in site.posts limit:2 %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
+    </li>
+  {% endfor %}
+</ul>
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% include documents-collection.html entries=posts type=entries_layout %}
-</div>
+<a href="/blog/" class="more-posts">View all posts →</a>
 
 {% include paginator.html %}
