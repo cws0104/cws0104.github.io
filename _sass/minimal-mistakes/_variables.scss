@@ -32,8 +32,8 @@ $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 
-$global-font-family: "Roboto" !default;
-$header-font-family: "Montserrat" !default;
+$global-font-family: "Roboto", sans-serif !default;  // 본문 폰트
+$header-font-family: "Montserrat", sans-serif !default;  // 제목 폰트
 $caption-font-family: $serif !default;
 
 /* type scale */
