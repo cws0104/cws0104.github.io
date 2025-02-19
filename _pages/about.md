@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Publications"
-permalink: /research/
+title: "About"
+permalink: /about/
 ---
 
 # Wonseok (Ethan) Choi
